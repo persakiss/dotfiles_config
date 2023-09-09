@@ -1,0 +1,32 @@
+USER_HOME=$HOME
+
+hash -d cac=$USER_HOME/.cache 
+hash -d cf=$USER_HOME/.config 
+hash -d D=$USER_HOME/Downloads 
+hash -d d=$USER_HOME/Documents 
+hash -d dt=$USER_HOME/.local/share 
+hash -d rr=$USER_HOME/.local/src 
+hash -d h=$USER_HOME 
+hash -d m=$USER_HOME/Music 
+hash -d mn=/mnt 
+hash -d pp=$USER_HOME/Pictures 
+hash -d sc=$USER_HOME/.local/bin 
+hash -d src=$USER_HOME/.local/src 
+hash -d vv=$USER_HOME/Videos 
+hash -d bf=$USER_HOME/.config/shell/bm-files 
+hash -d bd=$USER_HOME/.config/shell/bm-dirs 
+hash -d cfx=$USER_HOME/.config/x11/xresources 
+hash -d cfb=$USER_HOME/.local/src/dwmblocks/config.h 
+hash -d cfv=$USER_HOME/.config/nvim/init.vim 
+hash -d cfz=$USER_HOME/.config/zsh/.zshrc 
+hash -d cfa=$USER_HOME/.config/shell/aliasrc 
+hash -d cfp=$USER_HOME/.config/shell/profile 
+hash -d cfm=$USER_HOME/.config/mutt/muttrc 
+hash -d cfn=$USER_HOME/.config/newsboat/config 
+hash -d cfu=$USER_HOME/.config/newsboat/urls 
+hash -d cfmb=$USER_HOME/.config/ncmpcpp/bindings 
+hash -d cfmc=$USER_HOME/.config/ncmpcpp/config 
+hash -d cfl=$USER_HOME/.config/lf/lfrc 
+hash -d cfL=$USER_HOME/.config/lf/scope 
+hash -d cfX=$USER_HOME/.config/nsxiv/exec/key-handler 
+
