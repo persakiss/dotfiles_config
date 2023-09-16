@@ -20,6 +20,7 @@ se() {
 
 # Verbosity and settings that you pretty much just always are going to want.
 alias \
+  cd="z" \
 	cp="cp -iv" \
 	mv="mv -iv" \
 	rm="rm -vI" \
