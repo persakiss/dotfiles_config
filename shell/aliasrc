@@ -43,6 +43,7 @@ alias \
 alias \
 	ka="killall" \
 	g="git" \
+  enmgi="echo \"node_modules\" > .gitignore" \
 	trem="transmission-remote" \
 	YT="youtube-viewer" \
 	sdn="shutdown -h now" \
