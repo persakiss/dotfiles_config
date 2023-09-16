@@ -178,5 +178,6 @@ bindkey -s '^f' '^ucd "$(dirname "$(fzf)")"\n'
 
         eval "$(starship init zsh)"
 
+eval "$(zoxide init zsh)"
 
 
