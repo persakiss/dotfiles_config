@@ -44,6 +44,7 @@ alias \
 	ka="killall" \
 	g="git" \
   enmgi="echo \"node_modules\" > .gitignore" \
+  gbmm="git branch -M main" \
 	trem="transmission-remote" \
 	YT="youtube-viewer" \
 	sdn="shutdown -h now" \
