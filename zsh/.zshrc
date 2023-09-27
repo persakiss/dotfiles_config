@@ -181,3 +181,6 @@ bindkey -s '^f' '^ucd "$(dirname "$(fzf)")"\n'
 eval "$(zoxide init zsh)"
 
 
+
+# bun completions
+[ -s "/home/koba/.bun/_bun" ] && source "/home/koba/.bun/_bun"
